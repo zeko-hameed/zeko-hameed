@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=00FFCC&height=250&section=header&text=Zakaria%20Al-hemyary&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Engineer%20%7C%20Full-Stack%20Developer&descSize=20&descAlignY=60" alt="Header" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cybersecurity+Engineer;Flutter+Mobile+Developer;Python+Cryptography+Expert" alt="Typing SVG" />
