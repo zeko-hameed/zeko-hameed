@@ -1,13 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=250&section=header&text=Zakaria%20Al-hemyary&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Engineer%20%7C%20Full-Stack%20Developer&descSize=20&descAlignY=60" alt="Header" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=00FFCC&height=250&section=header&text=Zakaria%20Al-hemyary&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Engineer%20%7C%20Full-Stack%20Developer&descSize=20&descAlignY=60" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cybersecurity+Engineer;Flutter+Mobile+Developer;Python+Cryptography+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cybersecurity+Engineer;Flutter+Mobile+Developer;Python+Cryptography+Expert" alt="Typing SVG" />
 </p>
 
+<!-- صورة برمجية وسبرانية متحركة فائقة الجودة في المنتصف -->
 <p align="center">
-  <img src="https://media.giphy.com/media/V80llXf734WzK/giphy.gif" width="400" alt="Cybersecurity GIF"/>
+  <img src="https://assets.ctfassets.net/lnh6m86gscv5/593mQeE0G0F2gZ7KOn7fOn/cb55577e1af1b3334fd94a806954fb32/cybersecurity_concept_GIF.gif" width="550" alt="Advanced Coding & Security Workflow"/>
+</p>
+
+<!-- عدادات تفاعلية متحركة تعطي طابع "الأنظمة الحية" -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zakaria-Alhemyary&label=PROFILE+VIEWS&color=00FFCC&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/System_Status-Secure-00FFCC?style=flat-square&logo=shield" alt="Status" />
+  <img src="https://img.shields.io/badge/Main_Core-Python_%7C_Flutter-blue?style=flat-square&logo=visual-studio-code" alt="Core" />
 </p>
 
 ---
