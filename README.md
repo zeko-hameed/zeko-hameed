@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm [Zakaria Hameed Al-hemyary] 👋
+### Full-Stack Developer & Cybersecurity Engineer 🚀🛡️
 
-<!--
-**zeko-hameed/zeko-hameed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Cybersecurity Engineer** and **Full-Stack Developer** who loves building secure, scalable, and efficient digital solutions. My unique edge lies in the intersection of development and security—**I don't just write code; I write secure code.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌌 About Me
+- 🛡️ **Cybersecurity**: Penetration Testing, Threat Modeling, Vulnerability Assessment, and Secure Code Review.
+- 💻 **Development**: Building robust web & mobile applications from scratch.
+- 🎯 **Philosophy**: DevSecOps — integrating security at every stage of the software development lifecycle.
+
+
+
